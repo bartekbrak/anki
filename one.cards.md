@@ -3,8 +3,6 @@
 
 Leave one blank and write an answer, then one more blank
 
----
-
 > Second one
 
 Response, response.

@@ -1,0 +1,72 @@
+> WSGI	Web Server Gateway Interface
+> PEP	Python Enhancement Proposal
+> FTP	File Transfer Protocol
+> DNS	Domain Name System
+> HTTP	Hypertext Transfer Protocol
+> IMAP	Internet Message Access Protocol
+> LDAP	Lightweight Directory Access Protocol
+> NTP	Network Time Protocol
+> POP	Post Office Protocol
+> SMTP	Simple Mail Transfer Protocol
+> SSH	Secure Shell
+> TLS	Transport Layer Security
+> SSL	Secure Sockets Layer
+> TCP	Transmission Control Protocol
+> UDP	User Datagram Protocol
+> IP	Internet Protocol
+> ARP	Address Resolution Protocol
+> PPP	Point-to-Point Protocol
+> MAC	medium access control or media access control
+> OSI model	Open Systems Interconnection model
+> DSL	Digital subscriber line (originally digital subscriber loop)A family of technologies that are used to transmit digital data over telephone lines
+> ADSL	Asymmetric digital subscriber line
+> IEEE	Institute of Electrical and Electronics Engineers
+> USB	Universal Serial Bus
+> RS (e.g. RS-232)	Recommended Standard, an early prefix used for electronic standards (e.g. RS-232) now maintained by the Electronic Industries Alliance
+> MIME	Multipurpose Internet Mail Extensions
+> NFS	Network File SystemA distributed file system protocol originally developed by Sun Microsystems in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed
+> DHCP	Dynamic Host Configuration Protocol
+> SCSI	Small Computer System Interface
+> Python ABC	Abstract Base Classes
+> BDFL	Benevolent Dictator For Life
+> EAFP	Easier to ask for forgiveness than permission.
+> GIL	global interpreter lock
+> LBYL	Look before you leap. This coding style explicitly tests for pre-conditions before making calls or lookups. This style contrasts with the EAFP approach and is characterized by the presence of many if statements.
+> MRO	method resolution order
+> Pence als *Redner* bei Münchner Sicherheitskonferenz	speaker
+> der *Stellvertreter* des neuen US-Präsidenten Donald Trump	deputy
+> Verteidigungsministerin	secreatry of defence
+> So sei eine *Lastenteilung* unter NATO-Partnern mehr als eine Frage des Geldes	burden sharing
+> das sei *zuallererst* das Prinzip	first of all
+> füreinander einzustehen, *ohne Wenn und Aber*	without if and but
+> US-Verteidigungsminister James Mattis *bemühte sich*	tried hard
+> Zweifel	doubt
+> Bündnisfestigkeit zu zerstreuen	to dispel [rozwiać obawy co do] alliance strength
+> Merkel und Guterres *betonen Bedeutung* der UN	stress the meaning of
+> weltweiter *Verunsicherung*	uncertainty
+> übereinstimmen	to agree
+> Notwendigkeit	necessity
+> Fluchtursachen	causes of flight
+> Vierter *Verdächtiger* nach Mord an Kims Halbbruder *in Haft*	suspect... in custody
+> Menschenrechtsbeauftragte	human rigts commissioner
+> Abschiebestopp	deportation stop
+> Vielmehr seien neue Ansätze in der Integrationspolitik gefordert	Rather, new approaches to integration policy are required
+> Vorgehen der Staatsmacht	action of the state power
+> deutlich mehr	significantly more
+> insgesamt 5700	a total of 5700
+> die umstrittene Verfassungsreform	the controversial constitutional reform
+> knapp 1800 Anträge	nearly 1800 applications
+> Ministerpräsident	prime minister
+> Abstimmen	to vote
+> A Question.> Second line of that question.	Leave one blank and write an answer, then one more blank
+> Second one	Response, response.you can do code here:```pythonimport this```
+> What is official short description for SQLAlchemy?	SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+> SQLAlchemy is most famous for its object-relational mapper (ORM), an optional component that provides the data mapper pattern. What is data mapper pattern?	Classes can be mapped to the database in open ended, multiple ways - allowing the object model and database schema to develop in a cleanly decoupled way from the beginning.
+> Who is the original author of SQLAlchemy?	Michael Bayer
+> When was SQLAlchemy first released?	February 14, 2006
+> What license is SQLAlchemy?	MIT License
+> Michael Bayer is the original author of SQLAlchemy, what other library is he famous for?	Mako templates
+> What is SQLAlchemy Core?	The Core is itself a fully featured SQL abstraction toolkit, providing a smooth layer of abstraction over a wide variety of DBAPI implementations and behaviors, as well as a SQL Expression Language which allows expression of the SQL language via generative Python expressions. A schema representation system that can both emit DDL statements as well as introspect existing schemas, and a type system that allows any mapping of Python types to database types, rounds out the system. The Object Relational Mapper is then an optional package which builds upon the Core
+> What is DBAPI?	FIXME
+> What is `Unit of Work pattern`?	The Unit Of Work system, a central part of SQLAlchemy's Object Relational Mapper (ORM), organizes pending insert/update/delete operations into queues and flushes them all in one batch. To accomplish this it performs a topological "dependency sort" of all modified items in the queue so as to honor inter-row dependencies, and groups redundant statements together where they can sometimes be batched even further. This produces the maximum efficiency and transaction safety, and minimizes chances of deadlocks. Modeled after Fowler's "Unit of Work" pattern as well as Hibernate, Java's leading object-relational mapper.
+> What is DDL?	FIXME

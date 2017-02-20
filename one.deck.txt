@@ -1,2 +1,2 @@
-A Question. Second line of that question.	Leave one blank and write an answer, then one more blank
-Second one	Response, response. you can do code here: <div class="codehilite" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span><span style="color: #008000; font-weight: bold">import</span> <span style="color: #0000FF; font-weight: bold">this</span> </pre></div>
+> A Question.> Second line of that question.	Leave one blank and write an answer, then one more blank
+> Second one	Response, response.you can do code here:```pythonimport this```
