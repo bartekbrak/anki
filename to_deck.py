@@ -33,7 +33,7 @@ def clean(text):
 
 
 def to_deck(data):
-
+    # TODO markdown both question and answer, I want at least **bold** and ```code```
     q, a = '', ''
     for line in data.strip().split('\n'):
         if line.startswith('>') and not a:
