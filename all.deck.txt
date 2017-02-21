@@ -33,6 +33,34 @@
 > GIL	global interpreter lock
 > LBYL	Look before you leap. This coding style explicitly tests for pre-conditions before making calls or lookups. This style contrasts with the EAFP approach and is characterized by the presence of many if statements.
 > MRO	method resolution order
+> Eindämmung der Migration	Control of migration
+> Kreisen der Bundesregierung	Circles of the federal government
+> Vertreter	Representative
+> gesellschaft	society
+> Der **Wüstenstaat** Algerien	The desert state of Algeria
+> Gebiet	area
+> Es gelang ihnen	They succeeded
+> Grenzzaun	Border fence
+> Knochenbrüchen	Bone fractures
+> überwiegend	mostly
+> verlangt	required
+> Bezugsdauer des Arbeitslosengelds I.	duration
+> Betroffenen	Affected persons
+> Erwerbslose	Unemployed
+> Leistung	benefit
+> Verwirrung	confusion
+> Verwirrung um Trumps **Äußerungen** über Schweden:	Confusion about trumps **remarks** about Sweden:
+> angeblichen Flüchtlingsvorfall	Alleged refugee incident
+> Botschaft	Embassy
+> Kurzmitteilungsdienst Twitter	Short message service Twitter
+> Fernsehsender	TV station
+> **Zusammenhang** zwischen der Einwanderung und Terror-Anschlägen	**Link** between immigration and terrorist attacks
+> Rede vor Anhängern	Speech before supporters
+> Rechtfertigung seiner restriktiven Einwanderungspolitik	Justifying its restrictive immigration policy
+> Anschuldigungen	accusations
+> **Ermittlungen** zum Tod von Kim Jong Nam	**Investigations** into the death of Kim Jong Nam
+> **Verschwörung** mit "feindlichen Mächten"	**Conspiracy** with "enemy powers"
+> **Ruf** Nordkoreas schädigen zu wollen	wanting to harm the **reputation** of North Korea
 > Pence als *Redner* bei Münchner Sicherheitskonferenz	speaker
 > der *Stellvertreter* des neuen US-Präsidenten Donald Trump	deputy
 > Verteidigungsministerin	secreatry of defence
