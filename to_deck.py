@@ -29,22 +29,22 @@ to_md = markdown.Markdown(
 
 
 def clean(text):
-    return text.strip().replace('\n', ' ').replace('<p>', '').replace('</p>', '')
+    return to_md(text.strip()).replace('<p>', '').replace('</p>', '')
+    # .replace('\n', ' ')
 
 
 def to_deck(data):
-    # TODO markdown both question and answer, I want at least **bold** and ```code```
     q, a = '', ''
     for line in data.strip().split('\n'):
         if line.startswith('>') and not a:
-            q += line
+            q += line.replace('> ', '')
         elif not line.startswith('>'):
             a += line
         elif line.startswith('>') and a:
-            yield q.strip(), a.strip()
+            yield clean(q), clean(a)
             q, a = '', ''
-            q += line
-    yield q.strip(), a.strip()
+            q += line.replace('> ', '')
+    yield clean(q), clean(a)
 
 if __name__ == '__main__':
     args = parse_args()
