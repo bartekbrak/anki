@@ -28,7 +28,7 @@ The Core is itself a fully featured SQL abstraction toolkit, providing a smooth 
 
 > What is DBAPI?
 
-FIXME
+Python Database API, defined in PEP 249. Defined to encourage similarity between the Python modules that are used to access databases.
 
 > What is `Unit of Work pattern`?
 
@@ -36,4 +36,4 @@ The Unit Of Work system, a central part of SQLAlchemy's Object Relational Mapper
 
 > What is DDL?
 
-FIXME
+A data definition language or data description language (DDL) is a syntax similar to a computer programming language for defining data structures, especially database schemas.
