@@ -1,3 +1,15 @@
+> binnen weniger
+
+within less
+
+> Umfrage
+
+survey
+
+> Veranstaltung
+
+event
+
 > Bescheid der Behörden 
 
 Communication from the authorities

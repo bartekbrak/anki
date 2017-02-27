@@ -1,3 +1,12 @@
+Nebendarsteller	supporting actor
+Grausamkeit	cruelty
+eine riesige EU-Fahne	huge EU flag
+Eilverordnung	Urgent regulation
+Hoheitsgewässern	Territorial waters
+Schlauchboot	dinghy
+unter Bedingungenein Zusammenschluss von Journalisten	A federation of journalists
+Scheinbeschäftigung	Pseudo employmentunder conditions
+UART	Universal Asynchronous Receiver and Transmitter)
 WSGI	Web Server Gateway Interface
 PEP	Python Enhancement Proposal
 FTP	File Transfer Protocol

@@ -1,3 +1,12 @@
+Nebendarsteller	supporting actor
+Grausamkeit	cruelty
+eine riesige EU-Fahne	huge EU flag
+Eilverordnung	Urgent regulation
+Hoheitsgewässern	Territorial waters
+Schlauchboot	dinghy
+unter Bedingungenein Zusammenschluss von Journalisten	A federation of journalists
+Scheinbeschäftigung	Pseudo employmentunder conditions
+UART	Universal Asynchronous Receiver and Transmitter)
 WSGI	Web Server Gateway Interface
 PEP	Python Enhancement Proposal
 FTP	File Transfer Protocol
@@ -33,6 +42,9 @@ EAFP	Easier to ask for forgiveness than permission.
 GIL	global interpreter lock
 LBYL	Look before you leap. This coding style explicitly tests for pre-conditions before making calls or lookups. This style contrasts with the EAFP approach and is characterized by the presence of many if statements.
 MRO	method resolution order
+binnen weniger	within less
+Umfrage	survey
+Veranstaltung	event
 Bescheid der Behörden	Communication from the authorities
 beträchtlich gestiegen	considerably increased
 Herkunftsstaat	Country of origin
