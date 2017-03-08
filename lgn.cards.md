@@ -1,3 +1,40 @@
+> vorübergehend
+
+temporarily
+
+> Bürgerrechtlern
+
+Civil rights activists
+
+> Geiselnahme
+
+hostage taking
+
+> umfassendste Studie
+
+Most comprehensive study
+
+> Bettnässen, Albträume oder Sprachstörungen
+
+Bedwetting, nightmares or speech disorders
+
+> Weltraumbahnhof
+
+space station
+
+> Einzelheiten
+
+details
+
+> unter Berufung auf ranghohe Behördenvertreter berichtete
+
+citing high-ranking officials
+
+> Friedensgespräche
+
+Peace talks
+
+
 > binnen weniger
 
 within less
