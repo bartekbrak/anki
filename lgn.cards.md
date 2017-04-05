@@ -1,3 +1,37 @@
+> Nebendarsteller
+
+supporting actor
+
+> Grausamkeit
+
+cruelty
+
+> eine riesige EU-Fahne
+
+huge EU flag
+
+> Eilverordnung
+
+Urgent regulation
+
+> Hoheitsgewässern
+
+Territorial waters
+
+> Schlauchboot
+
+dinghy
+
+> unter Bedingungen
+
+> ein Zusammenschluss von Journalisten
+
+A federation of journalists
+
+> Scheinbeschäftigung
+
+Pseudo employment
+
 > vorübergehend
 
 temporarily
